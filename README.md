@@ -187,7 +187,7 @@ if __name__ == "__main__":
 
 ## 4. Instrucciones de ejecución
 
-1. Clona el repositorio y entra a la carpeta del proyecto con `git clone URL_DEL_REPOSITORIO` y luego `cd NOMBRE_DE_LA_CARPETA`.
+1. Clona el repositorio y entra a la carpeta del proyecto con `git clone https://github.com/yeimerxx/contador-flet.git` y luego `cd contador-flet`.
 2. Crea un entorno virtual con `python -m venv venv` y actívalo con `venv\Scripts\activate` en Windows.
 3. Instala las dependencias con `python -m pip install -r requirements.txt`.
 4. Ejecuta la aplicación con `python main.py`. Si prefieres verla en el navegador, usa `flet run --web main.py`.
@@ -196,7 +196,7 @@ if __name__ == "__main__":
 
 Captura de la aplicación en funcionamiento, con el contador respondiendo a los clics:
 
-![Aplicación funcionando](Evidencia/captura.png)
+![Aplicación funcionando](captura.png)
 
 ## 6. Reto adicional: programación orientada a objetos
 
